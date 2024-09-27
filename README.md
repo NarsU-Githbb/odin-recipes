@@ -8,3 +8,5 @@ in this project I wish to demonstrate my HTML basics knowledge such as:
 -Lists
 
 etc.
+
+ps. This is my first project ever so I couldn't help myself being a little silly while making it. I'll promise to grow up in the future!
